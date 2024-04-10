@@ -21,6 +21,19 @@ Bootstrap.
 Computador com acesso à internet;
 Vscode;
 
-## Assista ao vídeo no YouTube 🎯
+## Como executar
+1. Clone o repositório: 
+```bash
+git clone https://github.com/RubsRafa/projeto-mundo-1.git
+```
+2. Abra o código no seu IDE de preferência
 
-[click](https://www.youtube.com/watch?v=lUlshnpz5VM)
+3. Dependendo da IDE, talvez seja necessário criar um ambiente. Aperte CTRL+SHIFT+P e escolha o ambiente de execução.
+
+3. Instale as bibliotecas necessárias para execução do projeto. Para instalar as dependências, basta digitar na linha de comando `pip install` e o nome das bibliotecas utilizadas.
+
+## Vídeo Demonstrativo
+
+Assista ao vídeo de demonstração no [YouTube] 🎯
+
+[click 📲](https://www.youtube.com/watch?v=lUlshnpz5VM)
