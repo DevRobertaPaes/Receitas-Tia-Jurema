@@ -24,7 +24,7 @@ Vscode;
 ## Como executar
 1. Clone o repositório: 
 ```bash
-git clone https://github.com/RubsRafa/projeto-mundo-1.git
+git clone https://github.com/DevRobertaPaes/receitas-tia-jurema
 ```
 2. Abra o código no seu IDE de preferência
 
