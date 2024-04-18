@@ -40,7 +40,8 @@ Bootstrap.
 Com os arquivos abertos no VS Code, Click com o mouse, abra o arquivo (index.html,cadastro.html,receitas.html ) e depois click com o mouse(lado direito) em cima do nome do arquivo - aparecerá - Open with live server- click e o arquivo será aberto em uma página da internet.
 
 👉 1º Procedimento ✔ index.html
- Navegue nas três páginas que são interligadas.
+
+ 🧭Navegue nas três páginas que são interligadas.
 
 ## Vídeo Demonstrativo
 
