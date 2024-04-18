@@ -16,21 +16,31 @@ Definição de uma fonte de dados estática, no próprio HTML;
 Utilização elementos básicos de formatação com o framework
 Bootstrap.
 
-## Materiais utilizados:
+   
+## Materiais necessários para a prática
 
-Computador com acesso à internet;
-Vscode;
+```
+    Computador com acesso à internet;
+    Editor de código Visual Studio Code;
+    Navegador de internet instalado no computador;
+    Conta no GitHub.
+```
 
 ## Como executar
-1. Clone o repositório: 
+1-Abra o seu VS Code;
+
+1.1-Digite CTRL + Shift + X e instale as bibliotecas necessárias para execução do projeto no VS Code, tais como : Live Server, json, JavaScript (ES6),HTML CSS Support. (caso já não as tenha instalado);
+
+1.2- Click em Clonar um Repositório GitHub em uma pasta local e Abra o código no seu VS Code;
+           
+1.3- Clone o repositório:👇
 ```bash
-git clone https://github.com/DevRobertaPaes/receitas-tia-jurema
+(https://github.com/DevRobertaPaes/receitas-tia-jurema)
 ```
-2. Abra o código no seu IDE de preferência
+Com os arquivos abertos no VS Code, Click com o mouse, abra o arquivo (index.html,cadastro.html,receitas.html ) e depois click com o mouse(lado direito) em cima do nome do arquivo - aparecerá - Open with live server- click e o arquivo será aberto em uma página da internet.
 
-3. Dependendo da IDE, talvez seja necessário criar um ambiente. Aperte CTRL+SHIFT+P e escolha o ambiente de execução.
-
-3. Instale as bibliotecas necessárias para execução do projeto. Para instalar as dependências, basta digitar na linha de comando `pip install` e o nome das bibliotecas utilizadas.
+👉 1º Procedimento ✔ index.html
+ Navegue nas três páginas que são interligadas.
 
 ## Vídeo Demonstrativo
 
